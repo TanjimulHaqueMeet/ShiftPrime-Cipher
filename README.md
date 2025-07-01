@@ -60,6 +60,8 @@
 
 ## 🔑 Prime Mapping
 
+<div align="center">
+  
 | Digit | Prime |
 |-------|-------|
 | 0     | 2     |
@@ -72,6 +74,8 @@
 | 7     | 19    |
 | 8     | 23    |
 | 9     | 29    |
+
+</div>
 
 ---
 
@@ -102,6 +106,7 @@
   <p> Encryption </p>
 </div>
 
+---
 
 <div align="center">
   <img src="/Decryption.png" alt="Decryption" width="200" style="margin-left: 20px;" />
