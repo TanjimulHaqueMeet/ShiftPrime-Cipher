@@ -130,6 +130,8 @@
 
 **Ciphertext (as numbers):** `83 90 113 88 43 74 112 72`
 
+---
+
 ### Decryption Process:
 
 | Index | Encrypted Number | Key | Prime Number | Decrypted ASCII | Decrypted Text |
@@ -142,7 +144,8 @@
 | 5     | 74   | 3   | 7         | 67      | C        |
 | 6     | 112    | 9    | 29         | 83     | S       |
 | 7     | 72    | 1    | 3         | 69     | E        |
-`HSTU CSE`
+
+**Decrypted Text:** `HSTU CSE`
 
 ---
 
