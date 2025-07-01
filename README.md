@@ -97,6 +97,9 @@
 
 ## 📊 Flowcharts
 
+| ![Encryption](/Encryption.png) | ![Decryption](/Decryption.png) |
+|------------------------------|-------------------------------|
+
 ### 🔐 Encryption  
 ![Encryption Flowchart](/Encryption.png)
 
