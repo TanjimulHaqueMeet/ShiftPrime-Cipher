@@ -97,6 +97,12 @@
 
 ## 📊 Flowcharts
 
+<p align="center">
+  <img src="/Encryption.png" alt="Encryption" width="300" style="margin-right: 20px;" />
+  <img src="/Decryption.png" alt="Decryption" width="300" style="margin-left: 20px;" />
+</p>
+
+
 | ![Encryption](/Encryption.png) | ![Decryption](/Decryption.png) |
 |------------------------------|-------------------------------|
 
