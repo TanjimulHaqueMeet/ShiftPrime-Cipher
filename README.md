@@ -115,7 +115,7 @@
 
 ## 🧪 Test Case
 
-### Encryption Process:
+### 🔐 Encryption Process:
 
 **Plaintext:** `HSTU CSE`  
 **Key:** `4391`
@@ -135,7 +135,7 @@
 
 ---
 
-### Decryption Process:
+### 🔓 Decryption Process:
 
 **Encrypted numbers:** `83 90 113 88 43 74 112 72`
 
