@@ -98,10 +98,10 @@
 ## 📊 Flowcharts
 
 ### 🔐 Encryption  
-!Encryption(/Encryption.png)
+![Encryption Flowchart](/Encryption.png)
 
 ### 🔓 Decryption  
-![Decryption Flowchart](path/to/Decryption.png)
+![Decryption Flowchart](/Decryption.png)
 
 > ⚠️ Replace `path/to/...` with the actual file paths in your GitHub repo (e.g., `images/encryption.png`).
 
