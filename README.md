@@ -98,21 +98,9 @@
 ## 📊 Flowcharts
 
 <p align="center">
-  <img src="/Encryption.png" alt="Encryption" width="300" style="margin-right: 20px;" />
-  <img src="/Decryption.png" alt="Decryption" width="300" style="margin-left: 20px;" />
+  <img src="/Encryption.png" alt="Encryption" width="200" style="margin-right: 20px;" />
+  <img src="/Decryption.png" alt="Decryption" width="200" style="margin-left: 20px;" />
 </p>
-
-
-| ![Encryption](/Encryption.png) | ![Decryption](/Decryption.png) |
-|------------------------------|-------------------------------|
-
-### 🔐 Encryption  
-![Encryption Flowchart](/Encryption.png)
-
-### 🔓 Decryption  
-![Decryption Flowchart](/Decryption.png)
-
-> ⚠️ Replace `path/to/...` with the actual file paths in your GitHub repo (e.g., `images/encryption.png`).
 
 ---
 
