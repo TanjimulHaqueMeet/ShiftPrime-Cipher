@@ -22,9 +22,8 @@
 
 <h2 align="center" style="color:#2980b9;"><strong> Algorithm Name</strong></h2>
 
-<h1 align="center" style="color:#8e44ad;"><strong>🔐 ShiftPrime-Cipher
-### A Lightweight Prime-Based Encryption Algorithm</strong></h1>
-
+<h1 align="center" style="color:#8e44ad;"><strong>🔐 ShiftPrime-Cipher</strong></h1>
+<h3 align="center" style="color:#8e44ad;"><strong>A Lightweight Prime-Based Encryption Algorithm</strong></h3>
 ---
 
 <h2 align="center" style="color:#16a085;"><strong>Submitted By</strong></h2>
@@ -35,10 +34,9 @@
   <strong>Student ID:</strong> 2002049 
   <br>
   <strong>Level:</strong> 3  
-  <br>
   <strong>Semester:</strong> II  
   <br>
-  <strong>Department:</strong> Computer Science and Engineering  
+  Department of Computer Science and Engineering  
 </p>
 
 ---
