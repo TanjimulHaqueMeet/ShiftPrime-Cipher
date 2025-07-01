@@ -1,5 +1,3 @@
-# 🔐 ShiftPrime-Cipher
-### A Lightweight Prime-Based Encryption Algorithm  
 <p align="center">
   <img src="hstu_logo_.png" alt="HSTU Logo" width="150">
 </p>
