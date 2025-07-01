@@ -102,13 +102,13 @@
 ## 📊 Flowcharts
 
 <div align="center">
-  <img src="/Encryption.png" alt="Encryption" width="100" style="margin-right: 20px;" />
+  <img src="/Encryption.png" alt="Encryption" width="150" style="margin-right: 20px;" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="/Decryption.png" alt="Decryption" width="100" style="margin-left: 20px;" />
+  <img src="/Decryption.png" alt="Decryption" width="150" style="margin-left: 20px;" />
 </div>
 
 ---
