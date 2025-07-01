@@ -2,7 +2,7 @@
   <img src="hstu_logo_.png" alt="HSTU Logo" width="150">
 </p>
 
-<h2 align="center"><strong>Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200</strong></h2>
+<h2 align="center"><strong>Hajee Mohammad Danesh Science and Technology University, <br> Dinajpur-5200</strong></h2>
 
 ---
 
