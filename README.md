@@ -4,9 +4,7 @@
   <img src="hstu_logo_.png" alt="HSTU Logo" width="150">
 </p>
 
-<h2 align="center"><strong>Hajee Mohammad Danesh Science and Technology University</strong></h2>
-
-<h3 align="center">Dinajpur-5200</h3>
+<h2 align="center"><strong>Hajee Mohammad Danesh Science and Technology University, Dinajpur-5200</strong></h2>
 
 ---
 
@@ -15,6 +13,8 @@
 <p align="center">
   <strong>Course Title:</strong> Mathematical Analysis for Computer Science  
   <br>
+</p>
+<p align="center">
   <strong>Course Code:</strong> CSE 361
 </p>
 
@@ -34,8 +34,7 @@
   <br>
   <strong>Student ID:</strong> 2002049 
   <br>
-  <strong>Level:</strong> 3  
-  <strong>Semester:</strong> II  
+  <strong>Level: 3 , Semester: II</strong> 
   <br>
   Department of Computer Science and Engineering  
 </p>
@@ -55,13 +54,13 @@
 
 ---
 
-## 🧠 1. Overview
+## 🧠 Overview
 
 **ShiftPrime-Cipher** is a symmetric encryption algorithm that uses a numeric key to map each digit to a corresponding prime number. Each character in the plaintext is shifted using these prime values to generate a ciphertext. It is lightweight, educational, and based on basic number theory.
 
 ---
 
-## 🔑 2. Prime Mapping
+## 🔑 Prime Mapping
 
 | Digit | Prime |
 |-------|-------|
@@ -78,7 +77,7 @@
 
 ---
 
-## 🔐 3. Encryption Algorithm
+## 🔐 Encryption Algorithm
 
 1. For each character in the plaintext:
 2. Get the corresponding digit from the key (cycle if needed).
@@ -88,7 +87,7 @@
 
 ---
 
-## 🔓 4. Decryption Algorithm
+## 🔓 Decryption Algorithm
 
 1. For each number in the ciphertext:
 2. Get the corresponding digit from the key (cycle if needed).
@@ -98,7 +97,7 @@
 
 ---
 
-## 📊 5. Flowcharts
+## 📊 Flowcharts
 
 ### 🔐 Encryption  
 ![Encryption Flowchart](path/to/encryption_flowchart.png)
@@ -110,7 +109,7 @@
 
 ---
 
-## 🧪 6. Test Case
+## 🧪 Test Case
 
 **Plaintext:** `HSTU CSE`  
 **Key:** `4391`  
@@ -134,7 +133,7 @@
 
 ---
 
-## 🧾 7. Source Code (Python)
+## 🧾 Source Code (Python)
 
 ```python
 def get_prime_shift(digit_char):
