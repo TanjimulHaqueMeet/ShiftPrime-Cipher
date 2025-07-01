@@ -22,16 +22,17 @@
 
 <h2 align="center" style="color:#2980b9;"><strong> Algorithm Name</strong></h2>
 
-<h1 align="center" style="color:#8e44ad;"><strong>🔐 GCP Cipher</strong></h1>
+<h1 align="center" style="color:#8e44ad;"><strong>🔐 ShiftPrime-Cipher
+### A Lightweight Prime-Based Encryption Algorithm</strong></h1>
 
 ---
 
-<h2 align="center" style="color:#16a085;"><strong>🧑‍💻 Submitted By</strong></h2>
+<h2 align="center" style="color:#16a085;"><strong>Submitted By</strong></h2>
 
 <p align="center">
-  <strong>Name:</strong> Md. Ridwanur Rahman Shuvo  
+  <strong>Name:</strong> Md. Tanjimul Haque Meet 
   <br>
-  <strong>Student ID:</strong> 2102046  
+  <strong>Student ID:</strong> 2002049 
   <br>
   <strong>Level:</strong> 3  
   <br>
@@ -42,23 +43,16 @@
 
 ---
 
-<h2 align="center" style="color:#16a085;"><strong>👨‍🏫 Submitted To</strong></h2>
+<h2 align="center" style="color:#16a085;"><strong>Submitted To</strong></h2>
 
 <p align="center">
   <strong>Name:</strong> Pankaj Bhowmik  
   <br>
-  <strong>Designation:</strong> Lecturer  
+  Lecturer  
   <br>
-  <strong>Department:</strong> Computer Science and Engineering  
+  Department of Computer Science and Engineering, HSTU
 </p>
 
-
----
-
-**Course:** Mathematical Analysis for Computer Science (CSE 361)  
-**Submitted by:** MD. Tanjimul Haque Meet (ID: 2002049)  
-**Level 3, Semester II**  
-**Submitted to:** Pankaj Bhowmik, Lecturer, Dept. of CSE, HSTU  
 
 ---
 
