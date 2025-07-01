@@ -103,14 +103,12 @@
 
 <div align="center">
   <img src="/Encryption.png" alt="Encryption" width="200" style="margin-right: 20px;" />
-  <p> Encryption </p>
 </div>
 
 ---
 
 <div align="center">
   <img src="/Decryption.png" alt="Decryption" width="200" style="margin-left: 20px;" />
-  <p> Decryption </p>
 </div>
 
 ---
@@ -206,3 +204,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+---
+
