@@ -24,6 +24,7 @@
 
 <h1 align="center" style="color:#8e44ad;"><strong>🔐 ShiftPrime-Cipher</strong></h1>
 <h3 align="center" style="color:#8e44ad;"><strong>A Lightweight Prime-Based Encryption Algorithm</strong></h3>
+
 ---
 
 <h2 align="center" style="color:#16a085;"><strong>Submitted By</strong></h2>
