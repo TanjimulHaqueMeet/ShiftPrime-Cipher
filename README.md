@@ -98,7 +98,7 @@
 ## 📊 Flowcharts
 
 ### 🔐 Encryption  
-path/to/Encryption.png
+!Encryption(/Encryption.png)
 
 ### 🔓 Decryption  
 ![Decryption Flowchart](path/to/Decryption.png)
