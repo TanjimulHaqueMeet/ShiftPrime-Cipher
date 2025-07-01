@@ -1,5 +1,3 @@
-# ShiftPrime-Cipher
-ShiftPrime-Cipher: A Lightweight Prime-Based Encryption Algorithm
 # 🔐 ShiftPrime-Cipher
 ### A Lightweight Prime-Based Encryption Algorithm  
 **Course:** Mathematical Analysis for Computer Science (CSE 361)  
