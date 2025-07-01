@@ -1,7 +1,7 @@
 # 🔐 ShiftPrime-Cipher
 ### A Lightweight Prime-Based Encryption Algorithm  
 <p align="center">
-  <img src="./https://github.com/TanjimulHaqueMeet/ShiftPrime-Cipher/blob/main/hstu_logo_.png" alt="HSTU Logo" width="150">
+  <img src=".hstu_logo_.png" alt="HSTU Logo" width="150">
 </p>
 
 <h2 align="center"><strong>Hajee Mohammad Danesh Science and Technology University</strong></h2>
