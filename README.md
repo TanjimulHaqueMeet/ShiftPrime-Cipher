@@ -118,8 +118,8 @@
 ### 🔐 Encryption Process:
 
 <pre>
-**Plaintext:** `HSTU CSE`  
-**Key:** `4391`
+Plaintext: HSTU CSE  
+Key: 4391
 </pre>
 
 | Index | Char | ASCII | Key | Prime Number | Encrypted Number |
@@ -133,13 +133,17 @@
 | 6     | S    | 83    | 9         | 29     | 112       |
 | 7     | E    | 69    | 1         | 3      | 72        |
 
-**Ciphertext (as numbers):** `83 90 113 88 43 74 112 72`
+<pre>
+Ciphertext (as numbers): 83 90 113 88 43 74 112 72
+</pre>
 
 ---
 
 ### 🔓 Decryption Process:
 
-**Encrypted numbers:** `83 90 113 88 43 74 112 72`
+<pre>
+Encrypted numbers: 83 90 113 88 43 74 112 72
+</pre>
 
 | Index | Encrypted Number | Key | Prime Number | Decrypted ASCII | Decrypted Text |
 |-------|------|-------|-----------|--------|-----------|
@@ -152,7 +156,7 @@
 | 6     | 112    | 9    | 29         | 83     | S       |
 | 7     | 72    | 1    | 3         | 69     | E        |
 
-**Decrypted Text:** `HSTU CSE`
+<pre>Decrypted Text: HSTU CSE </pre>
 
 ---
 
