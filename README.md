@@ -117,8 +117,10 @@
 
 ### 🔐 Encryption Process:
 
+<pre>
 **Plaintext:** `HSTU CSE`  
 **Key:** `4391`
+</pre>
 
 | Index | Char | ASCII | Key | Prime Number | Encrypted Number |
 |-------|------|-------|-----------|--------|-----------|
