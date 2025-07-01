@@ -99,7 +99,7 @@
 
 <div align="center">
   <img src="/Encryption.png" alt="Encryption" width="200" style="margin-right: 20px;" />
-  <img src="/Decryption.png" alt="Decryption" width="200" style="margin-left: 40px;" />
+  <img src="/Decryption.png" alt="Decryption" width="200" style="margin-right: 40px;" />
 </div>
 
 
