@@ -212,6 +212,5 @@ if __name__ == "__main__":
 
 Clone the repository:
    ```bash
-   https://github.com/TanjimulHaqueMeet/Pet-Adoption-Management-System-PAMS-.git
-
----
+   https://github.com/TanjimulHaqueMeet/ShiftPrime-Cipher.git
+```
