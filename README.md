@@ -115,10 +115,10 @@
 
 ## 🧪 Test Case
 
-**Plaintext:** `HSTU CSE`  
-**Key:** `4391`  
-
 ### Encryption Process:
+
+**Plaintext:** `HSTU CSE`  
+**Key:** `4391`
 
 | Index | Char | ASCII | Key | Prime Number | Encrypted Number |
 |-------|------|-------|-----------|--------|-----------|
@@ -136,6 +136,8 @@
 ---
 
 ### Decryption Process:
+
+**Encrypted numbers:** `83 90 113 88 43 74 112 72`
 
 | Index | Encrypted Number | Key | Prime Number | Decrypted ASCII | Decrypted Text |
 |-------|------|-------|-----------|--------|-----------|
@@ -208,3 +210,8 @@ if __name__ == "__main__":
 ```
 ---
 
+Clone the repository:
+   ```bash
+   https://github.com/TanjimulHaqueMeet/Pet-Adoption-Management-System-PAMS-.git
+
+---
