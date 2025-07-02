@@ -79,7 +79,7 @@
 
 ---
 
-## 🧠 Pseudocode
+## 📝 Pseudocode
 
 ## 🔐 Encryption Algorithm
 
