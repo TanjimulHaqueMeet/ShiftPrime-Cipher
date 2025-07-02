@@ -81,6 +81,16 @@
 
 ## 🔐 Encryption Algorithm
 
+1. Initialize an empty list called `cipher`.
+2. For each character in the plaintext:
+   - Get the corresponding digit from the key (cycled using modulo).
+   - Map this digit to a prime number.
+   - Convert the character to its ASCII value and add the prime number.
+   - Append the result to the `cipher` list.
+3. Return the `cipher` list.
+
+---
+
 1. For each character in the plaintext:
 2. Get the corresponding digit from the key (cycle if needed).
 3. Map the digit to its prime number.
@@ -90,6 +100,16 @@
 ---
 
 ## 🔓 Decryption Algorithm
+
+1. Initialize an empty string called `plain`.
+2. For each number in the `cipher`:
+   - Get the corresponding digit from the key (cycled using modulo).
+   - Map this digit to a prime number.
+   - Subtract the prime number from the encrypted value.
+   - Convert the result to a character and append it to `plain`.
+3. Return the `plain` text.
+
+---
 
 1. For each number in the ciphertext:
 2. Get the corresponding digit from the key (cycle if needed).
