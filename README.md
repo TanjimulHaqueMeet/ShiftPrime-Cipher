@@ -79,6 +79,8 @@
 
 ---
 
+## 🧠 Pseudocode
+
 ## 🔐 Encryption Algorithm
 
 1. Initialize an empty list called `cipher`.
