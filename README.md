@@ -216,6 +216,22 @@ if __name__ == "__main__":
 ```
 ---
 
+## 🔚 Conclusion
+
+The **ShiftPrime-Cipher** is a lightweight, beginner-friendly encryption algorithm that utilizes prime number-based character shifting. By introducing irregular patterns through prime mappings, it enhances resistance against simple frequency or pattern-based attacks. Although not designed for high-security applications, it serves well for educational purposes and lightweight use cases where simplicity and clarity are prioritized.
+
+---
+
+## 📚 References
+
+- Burton, D. M. *Elementary Number Theory*. McGraw-Hill Education.  
+- Stallings, W. *Cryptography and Network Security: Principles and Practice*. Pearson Education.  
+- [GeeksforGeeks – Prime Numbers](https://www.geeksforgeeks.org/prime-numbers/)  
+- [TutorialsPoint – Cryptography Basics](https://www.tutorialspoint.com/cryptography/index.htm)  
+- [draw.io – Online Flowchart Tool](https://www.draw.io/)
+
+---
+
 Clone the repository:
    ```bash
    https://github.com/TanjimulHaqueMeet/ShiftPrime-Cipher.git
