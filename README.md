@@ -91,14 +91,6 @@
 
 ---
 
-1. For each character in the plaintext:
-2. Get the corresponding digit from the key (cycle if needed).
-3. Map the digit to its prime number.
-4. Shift the character’s ASCII value by that prime.
-5. Store the result in a list.
-
----
-
 ## 🔓 Decryption Algorithm
 
 1. Initialize an empty string called `plain`.
@@ -108,14 +100,6 @@
    - Subtract the prime number from the encrypted value.
    - Convert the result to a character and append it to `plain`.
 3. Return the `plain` text.
-
----
-
-1. For each number in the ciphertext:
-2. Get the corresponding digit from the key (cycle if needed).
-3. Map the digit to its prime number.
-4. Subtract the prime from the number.
-5. Convert the result back to a character.
 
 ---
 
